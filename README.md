@@ -3,4 +3,4 @@ Equipe: Brenoly Porto e Sávio Santos.
 <br>
 Disciplina: Teoria da Computação.
 <br>
-Curso: Bacharelado em Egenharia de Software - 4º período.
+Curso: Bacharelado em Engenharia de Software - 4º período.
